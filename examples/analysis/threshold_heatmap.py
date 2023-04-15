@@ -14,6 +14,10 @@ import os
 
 import matplotlib.pyplot as plt
 
+import sys
+
+sys.path.append(os.path.sep.join([os.getcwd(), '']))
+
 from src.core.plotter import heatmaps
 from src.core.query import Query
 

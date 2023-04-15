@@ -168,3 +168,4 @@ bin/
 projects/
 schema/
 user_input_gui.py
+output/analysis/threshold_heatmap.png
